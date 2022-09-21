@@ -1,0 +1,20 @@
+{
+  "name": "npm-ts-template",
+  "version": "1.0.0",
+  "description": "This is a template for a TypeScript project using npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m10rten/npm-ts-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m10rten/npm-ts-template/issues"
+  },
+  "homepage": "https://github.com/m10rten/npm-ts-template#readme"
+}
