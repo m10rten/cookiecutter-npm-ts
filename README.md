@@ -14,5 +14,12 @@ Optional: clone this repository
 
 _Make sure you have cookiecutter installed_
 
-Run `cookiecutter npm-ts-template/` 1 folder up.
-Or `cookiecutter https://GitHub.com/m10rten/npm-ts-template`
+Run 1 folder up.
+```bash
+cookiecutter npm-ts-template/
+``` 
+
+Or 
+```bash
+cookiecutter https://github.com/m10rten/npm-ts-template
+```
