@@ -1,4 +1,4 @@
-# npm-ts-template
+# cookiecutter-npm-ts
 
 This is a template for a TypeScript project using npm.
 
@@ -14,5 +14,5 @@ Optional: clone this repository
 
 _Make sure you have cookiecutter installed_
 
-Run `cookiecutter npm-ts-template/` 1 folder up.
+Run `cookiecutter cookiecutter-npm-ts/` 1 folder up.
 Or `cookiecutter https://GitHub.com/m10rten/cookiecutter-npm-ts`
